@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **As a**  Business Development Manager
- **I need**  functionalities  for collection doctor from field by company field staff
+ **I need**  functionalities  for collection doctor from field by company field staff.
  **So that**  MRPC system can use these data  for user specific purpose
    
  ### Details and Assumptions
