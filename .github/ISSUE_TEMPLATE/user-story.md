@@ -12,9 +12,9 @@ assignees: ''
  **So that**  MRPC system can use these data  for user specific purpose
    
  ### Details and Assumptions
- We maintain doctor information 
-We can Search Doctor information using  doctor name and ID
-We can Update Doctor Information
+* We maintain doctor information 
+* We can Search Doctor information using  doctor name and ID
+* We can Update Doctor Information
 
    
  ### Acceptance Criteria  
