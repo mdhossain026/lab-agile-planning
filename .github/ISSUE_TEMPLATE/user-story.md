@@ -13,14 +13,11 @@ assignees: ''
    
  ### Details and Assumptions
  We maintain doctor information 
-Search Doctor information 
-Update Doctor Information
+We can Search Doctor information using  doctor name and ID
+We can Update Doctor Information
 
    
  ### Acceptance Criteria  
    
- ```gherkin
- Given [some context]
- When [certain action is taken]
- Then [the outcome of action is observed]
- ```
+ Doctor ID can not be duplicate
+ Doctor information will be verify  with supervisor approval.
