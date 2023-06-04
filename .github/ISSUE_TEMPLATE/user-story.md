@@ -19,5 +19,5 @@ assignees: ''
    
  ### Acceptance Criteria  
    
- Doctor ID can not be duplicate
- Doctor information will be verify  with supervisor approval.
+ * Doctor ID can not be duplicate
+* Doctor information will be verify  with supervisor approval.
